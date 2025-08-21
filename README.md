@@ -5,4 +5,4 @@
 ## Robot name: Spark
 
 ### Robot purpose: 
-Robot is mobile and 
+Robot is mobile and mops the floor around it.
