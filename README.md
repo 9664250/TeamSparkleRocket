@@ -1,8 +1,8 @@
 # TeamFormations
 
-## Team name: Team Salvage
+## Team name: Team Sparkle Rockets
 
 ## Robot name: Spark
 
 ### Robot purpose: 
-Robot is mobile and has the main goal of carrying snacks and water. Robot has a cupholder, a storage for snacks that can open with a button, and can move around to follow the person,Robot can also scan the food to ajust size.
+Stationary. The robot's function is to be able to launch a rocket in the air and potentially become mobile to retrieve the rocket.
