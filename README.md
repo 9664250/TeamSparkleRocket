@@ -20,6 +20,8 @@ A spring-powered launcher would be a great way for the robot to launch a rocket 
 
 Basic sketch of robot model:
 
+![Sketch](https://github.com/9664250/TeamFormations/blob/main/images/Screenshot%202025-08-28%201.57.27%20PM.png)
+
 Basic sketch of retracting claw:
 
 Rocket sketch ( ideas ):
