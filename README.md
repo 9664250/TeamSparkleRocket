@@ -22,6 +22,6 @@ Basic sketch of robot model:
 
 Basic sketch of retracting claw:
 
-Rocket sketch ( ideas )
+Rocket sketch ( ideas ):
 
 #### Useful Possible Websites : https://www.instructables.com/compressed-air-rockets/
