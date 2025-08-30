@@ -12,7 +12,10 @@
 * Documentors: Shayla
 
 ### Robot Purpose Statement: 
-The robot's function is to be able to pick up a rocket, place it inisde the launching area (inside the robot) and be able to launch the rocket. It will become mobile to retrieve the rocket, though the speed might be slow. The robot should be in a u-shape driving system. For grabbing the rocket, we could use a retracting claw that would go through the middle and it would need the ability to move out of the way for the rocket to be put in place. The base of the robot should be heavy or have some way to clip onto the ground so that nothing would move while launching. 
+The robot's function is to be able to pick up a rocket, place it inisde the launching area (inside the robot) and be able to launch the rocket. It will become mobile to retrieve the rocket, though the speed might be slow. For grabbing the rocket, we could use a retracting claw that would go through the middle and it would need the ability to move out of the way for the rocket to be put in place. The base of the robot should be made out of steel because it has a lot of weight making it better to grip at the ground which is higly beneficial since we need that grip while launching the rocket so the robot remains stable.
+
+*Driving system and Chassis
+
 
 * Launching mechanism and launcher housing( Ideas )
 
