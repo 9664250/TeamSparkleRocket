@@ -27,9 +27,14 @@ A spring-powered launcher would be a great way for the robot to launch a rocket 
 * 5 Steel 2x C-Bars, 25 units
 * 3 Aluminum 2x C-Bars, 15 units
 * 2 Aluminum 2x C-Bars, 10 units
-* 6 Motors
+* 6 V5 Smart Motors
 * 2 Traction wheels, 2 Mecanum wheels
 * 4 Axils
+* 1 V5 Robot Brain
+* 10 high strength gear shaft insert
+* 1 180 mm V5 Power Cable
+* 5 900 mm V5 Smart Cable
+* 
 
 
 Basic sketch of robot model:
