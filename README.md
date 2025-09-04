@@ -9,7 +9,7 @@
 ## Team roles:
 * Builders: Phineas Taylor, Graydon Neff, Santhosh Ramanathan
 * Coders: Colby Greer
-* Documentors: Shayla
+* Documentors: Shayla, Cassandra Knoll
 
 ### Robot Purpose Statement: 
 The robot's function is to be able to pick up a rocket, place it inisde the launching area (inside the robot) and be able to launch the rocket. It will become mobile to retrieve the rocket, though the speed might be slow. For grabbing the rocket, we could use a retracting claw that would go through the middle and it would need the ability to move out of the way for the rocket to be put in place. The base of the robot should be made out of steel because it has a lot of weight making it better to grip at the ground which is higly beneficial since we need that grip while launching the rocket so the robot remains stable.
