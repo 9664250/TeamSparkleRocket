@@ -34,7 +34,13 @@ A spring-powered launcher would be a great way for the robot to launch a rocket 
 * 10 high strength gear shaft insert
 * 1 180 mm V5 Power Cable
 * 5 900 mm V5 Smart Cable
-* 
+* 1 600 mm V5 Smart cable
+* 1 300 mm V5 Smart Cable
+* 1 v5 Robot Battery
+* 2 V5 Battery Clip
+* 7 4-post Hex Nut
+* 5 1-post Hex
+* 15 Post hex Nut Retainer with Bearing Flat
 
 
 Basic sketch of robot model:
