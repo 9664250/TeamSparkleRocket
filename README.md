@@ -21,7 +21,7 @@ The robot's function is to be able to pick up a rocket, place it inisde the laun
 
 A spring-powered launcher would be a great way for the robot to launch a rocket once it has been loaded by the retractable claw. Springs are much safer than alternatives like compressed air, which could damage the launcher or even the robot itself. Despite their simplicity, springs can launch rockets over 40 feet, making them both effective and reliable. The idea is that as the retractable claw lowers the rocket into the launch tube, it also compresses the spring. Once the spring reaches a certain depth, an automatic locking mechanism engages, holding the spring in place until the rocket is ready to be launched.As for the materials used in constructing the launcher housing ( where the spring powered launcher will be in ), we plan to use PVC pipe. PVC is lightweight, affordable, easy to work with, and durable enough to safely contain the spring-powered mechanism which would be great for the robot.
 
-# Item List ( Written by Phineas Taylor and Santhosh Ramanathan ):
+#### Item List ( Written by Phineas Taylor and Santhosh Ramanathan ):
 * 2 Steel 2x C-Bars, 30 units
 * 2 Steel 3x C-Bars, 25 units
 * 5 Steel 2x C-Bars, 25 units
