@@ -55,3 +55,5 @@ Rocket sketch ( ideas ):
 
 ![Code By CJ](https://github.com/9664250/TeamSparkleRocket/blob/main/src/RocketBot%20Code.v5blocks)
 #### Useful Possible Websites : https://www.instructables.com/compressed-air-rockets/
+
+We changed the back wheels to smaller wheels and more front traction. 
