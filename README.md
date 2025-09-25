@@ -43,6 +43,9 @@ A spring-powered launcher would be a great way for the robot to launch a rocket 
 * 15 Post hex Nut Retainer with Bearing Flat
 * 1 Vex Net
 * Vex V5 Controller
+Materials needed for rocket
+* Spring for launching rocket
+* Paper/aluminum/undecided rocket material
 
 
 Basic sketch of robot model ( Phineas Taylor ):
