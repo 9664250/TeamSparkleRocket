@@ -1,4 +1,4 @@
-# Team Sparkle Rocket Documentation
+<img width="1680" height="1050" alt="Screenshot 2025-09-25 at 1 11 12 PM" src="https://github.com/user-attachments/assets/92103f9f-0303-4103-baed-fda75bc25675" /># Team Sparkle Rocket Documentation
 
 ## Team name: Team Sparkle Rockets 
 (the reason we choose this name is because it fit a flashy objective like ours, aka, rocket launching).
@@ -70,4 +70,7 @@ Necessary Changes:
 * 
 
 Sketch of new robot w/ changes:
+ ![SKETCH](file:///Users/shayla/Desktop/Screenshot%202025-09-25%20at%201.58.14%E2%80%AFPM.png)
+
+
 
