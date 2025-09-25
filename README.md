@@ -57,3 +57,11 @@ Rocket sketch ( ideas ):
 #### Useful Possible Websites : https://www.instructables.com/compressed-air-rockets/
 
 We changed the back wheels to smaller wheels and more front traction. 
+
+Necessary Changes:
+* We need more front weight - ADD STEEL BAR IN FRONT
+* Changed position of grabber - CANNOT BE IN THE BACK
+* 
+
+Sketch of new robot w/ changes:
+
