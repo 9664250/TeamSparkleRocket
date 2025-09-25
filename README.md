@@ -61,6 +61,8 @@ Rocket sketch ( ideas ):
 
 We changed the back wheels to smaller wheels and more front traction. 
 
+9/25/25
+
 Necessary Changes:
 * We need more front weight - ADD STEEL BAR IN FRONT
 * Changed position of grabber - CANNOT BE IN THE BACK
