@@ -70,7 +70,7 @@ End result: added 2 steel bars in front. Had to add an extra steel bar on the ri
 
 Sketch of new robot w/ changes:<img width="510" height="673" alt="Screenshot 2025-10-07 at 1 25 34 PM" src="https://github.com/user-attachments/assets/d49d0545-7c62-4333-ab4a-6c9c4c14203b" />
 
-![Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/screenshot.png)
+
 
 ###10/7/25
 
