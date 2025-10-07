@@ -60,7 +60,7 @@ Rocket sketch ( ideas ):
 
 We changed the back wheels to smaller wheels and more front traction. 
 
-###9/25/25
+### 9/25/25
 
 Necessary Changes:
 * We need more front weight - ADD STEEL BAR IN FRONT
@@ -72,7 +72,7 @@ Sketch of new robot w/ changes:<img width="510" height="673" alt="Screenshot 202
 
 
 
-###10/7/25
+### 10/7/25
 
 Necessary Changes:
 * Need to complete grabber. Screw in properly, code it, and finish hopefully today.
