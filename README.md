@@ -68,8 +68,9 @@ Necessary Changes:
 
 End result: added 2 steel bars in front. Had to add an extra steel bar on the right side of the bot to make sure the wheel would hit the ground. The wheel now hits the ground. Fixed the wheels, which previously had the axels falling out. We added a small piece which keeps the axel in place. Our driving should be fixed now.
 
-Sketch of new robot w/ changes:
-![Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/SparkUpdated2.png)
+Sketch of new robot w/ changes:<img width="510" height="673" alt="Screenshot 2025-10-07 at 1 25 34 PM" src="https://github.com/user-attachments/assets/d49d0545-7c62-4333-ab4a-6c9c4c14203b" />
+
+![Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/screenshot.png)
 
 ###10/7/25
 
