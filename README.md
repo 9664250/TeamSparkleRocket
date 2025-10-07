@@ -62,15 +62,23 @@ Rocket sketch ( ideas ):
 
 We changed the back wheels to smaller wheels and more front traction. 
 
-9/25/25
+###9/25/25
 
 Necessary Changes:
 * We need more front weight - ADD STEEL BAR IN FRONT
 * Changed position of grabber - CANNOT BE IN THE BACK
-* 
+
+End result: added 2 steel bars in front. Had to add an extra steel bar on the right side of the bot to make sure the wheel would hit the ground. The wheel now hits the ground. Fixed the wheels, which previously had the axels falling out. We added a small piece which keeps the axel in place. Our driving should be fixed now.
 
 Sketch of new robot w/ changes:
  ![SKETCH](file:///Users/shayla/Desktop/Screenshot%202025-09-25%20at%201.58.14%E2%80%AFPM.png)
+
+###10/7/25
+
+Necessary Changes:
+* Need to complete grabber. Screw in properly, code it, and finish hopefully today.
+* Need automated coding. Our coder, CJ, should be working on making our bot autonomous. We will use the grabber to grab the donut.
+* 
 
 
 
