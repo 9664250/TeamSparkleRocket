@@ -1,5 +1,3 @@
-<img width="1680" height="1050" alt="Screenshot 2025-09-25 at 1 11 12 PM" src="https://github.com/user-attachments/assets/92103f9f-0303-4103-baed-fda75bc25675" /># Team Sparkle Rocket Documentation
-
 ## Team name: Team Sparkle Rockets 
 (the reason we choose this name is because it fit a flashy objective like ours, aka, rocket launching).
 
@@ -71,7 +69,7 @@ Necessary Changes:
 End result: added 2 steel bars in front. Had to add an extra steel bar on the right side of the bot to make sure the wheel would hit the ground. The wheel now hits the ground. Fixed the wheels, which previously had the axels falling out. We added a small piece which keeps the axel in place. Our driving should be fixed now.
 
 Sketch of new robot w/ changes:
- ![SKETCH](file:///Users/shayla/Desktop/Screenshot%202025-09-25%20at%201.58.14%E2%80%AFPM.png)
+![Sketch](https://github.com/9664250/TeamFormations/blob/main/images/SparkUpdated2.png)
 
 ###10/7/25
 
