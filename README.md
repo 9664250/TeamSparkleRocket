@@ -84,7 +84,8 @@ Necessary Changes:
 ### 10/9/25
 
 Necessary changes: 
- * We've ALMOST completely finished the code. What we need is to finish the grabber, which should take 20 minutes. Then, we need to connect the code to the grabber (which currently is just a metal pole we're planning to stick into the donut hole to grab it) to finish it.
- * We will have to run multiple tests to see how many turns of the motor it takes to move the "grabber" so we'll make slight changes to that.
+
+ * What we need is to finish the grabber, which should take 20 minutes. Then, we need to connect the code to the grabber (which currently is just a metal pole we're planning to stick into the donut hole to grab it) to be done.
+ * We will have to run multiple tests to see how many turns of the motor it takes to move the "grabber" so we'll make slight changes to that.  We've ALMOST completely finished the code.
  * There will likely be a problem with driving in the same direction. We'll need to equalize the driving of our robot, maybe by adding more weight on one side?
    
