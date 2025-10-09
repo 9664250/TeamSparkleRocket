@@ -89,3 +89,4 @@ Necessary changes:
  * We will have to run multiple tests to see how many turns of the motor it takes to move the "grabber" so we'll make slight changes to that.  We've ALMOST completely finished the code.
  * There will likely be a problem with driving in the same direction. We'll need to equalize the driving of our robot, maybe by adding more weight on one side?
    
+Plan for rocket: We need a rocket spring and we'll either buy a rocket off of Amazon or make one out of paper or another easy material.
