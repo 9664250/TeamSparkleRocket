@@ -88,5 +88,10 @@ Necessary changes:
  * What we need is to finish the grabber, which should take 20 minutes. Then, we need to connect the code to the grabber (which currently is just a metal pole we're planning to stick into the donut hole to grab it) to be done.
  * We will have to run multiple tests to see how many turns of the motor it takes to move the "grabber" so we'll make slight changes to that.  We've ALMOST completely finished the code.
  * There will likely be a problem with driving in the same direction. We'll need to equalize the driving of our robot, maybe by adding more weight on one side?
-   
+
+Updted robot: (The back axel isn't conpletely working, we still need to push it in) 
+
+![image](https://github.com/user-attachments/assets/644d13f2-2461-4c39-8ba9-86ddc7c7bf24)
+
+
 Plan for rocket: We need a rocket spring and we'll either buy a rocket off of Amazon or make one out of paper or another easy material.
