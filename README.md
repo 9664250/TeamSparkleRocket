@@ -6,7 +6,7 @@
 
 ## Team roles:
 * Builders: Phineas Taylor, Santhosh Ramanathan
-* Coders: Colby Greer
+* Coders: Colby Greer (CJ)
 * Documentors: Shayla, Cassandra Knoll
 * Driver: Graydon Neff
 
@@ -78,7 +78,7 @@ Necessary Changes:
 * Need to complete grabber. Screw in properly, code it, and finish hopefully today.
 * Need automated coding. Our coder, CJ, should be working on making our bot autonomous. We will use the grabber to grab the donut.
   
-## Cj's code:
+## CJ's code:
 <img width="912" height="556" alt="Screenshot 2025-10-07 at 7 01 38 PM" src="https://github.com/user-attachments/assets/743d81b7-975f-48d6-bbe7-6505f52e07c7" />
 
 ### 10/9/25
