@@ -76,8 +76,14 @@ Sketch of new robot w/ changes:<img width="510" height="673" alt="Screenshot 202
 Necessary Changes:
 * Need to complete grabber. Screw in properly, code it, and finish hopefully today.
 * Need automated coding. Our coder, CJ, should be working on making our bot autonomous. We will use the grabber to grab the donut.
-* 
+  
 
 CJ's code: <img width="912" height="556" alt="Screenshot 2025-10-07 at 7 01 38 PM" src="https://github.com/user-attachments/assets/743d81b7-975f-48d6-bbe7-6505f52e07c7" />
 
+### 10/9/25
 
+Necessary changes: 
+ * We've ALMOST completely finished the code. What we need is to finish the grabber, which should take 20 minutes. Then, we need to connect the code to the grabber (which currently is just a metal pole we're planning to stick into the donut hole to grab it) to finish it.
+ * We will have to run multiple tests to see how many turns of the motor it takes to move the "grabber" so we'll make slight changes to that.
+ * There will likely be a problem with driving in the same direction. We'll need to equalize the driving of our robot, maybe by adding more weight on one side?
+   
