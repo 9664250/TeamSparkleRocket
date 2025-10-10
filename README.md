@@ -100,5 +100,5 @@ Plan for rocket: We need a rocket spring and we'll either buy a rocket off of Am
 
 Updates:
 * Robot's automated code is functional; but not optimal. Spark leans heavily to the right side due to its added weight on the right wheel. CJ will fix by changing the motor's code.
-* Spark can grab the donut with its makeshift wheel. That code part is working completely correctly.
-* 
+* Spark can grab the donut with its makeshift wheel. That code part is working completely correctly AS LONG AS the donut is in the right position.
+  
