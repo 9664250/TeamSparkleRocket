@@ -102,3 +102,8 @@ Updates:
 * Robot's automated code is functional; but not optimal. Spark leans heavily to the right side due to its added weight on the right wheel. CJ will fix by changing the motor's code.
 * Spark can grab the donut with its makeshift wheel. That code part is working completely correctly AS LONG AS the donut is in the right position.
   
+### 10/14/25
+
+Updates:
+* Spark is now automated without human controls
+* We need to make a couple changes to the code
