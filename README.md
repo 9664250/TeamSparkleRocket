@@ -111,13 +111,16 @@ Updates:
 
 ### 10/21/25
 
-New goal: Find a manipulator/intake type that would work for our bot to push, scoop, pinch, or funnel an object around.
+New goal: Find a manipulator/intake type that would work for our bot to push, scoop, pinch, or funnel an object around. Must be able to interact (pick up and hold securely) with real-world objects, specifically our rocket.
 
-Grabber type chosen: 
+Intake type chosen: Grabber - pinches and grips the object, lifting it up and securing it. Would be useful for the rocket.
 
-Design:
+Design (By Shayla):
 
 Necessary changes:
-*
+* Need to remove temporary grabber specifically meant for the donut
+* Plan and work out how to make the grabber
+* 
 
 Part list:
+* 
