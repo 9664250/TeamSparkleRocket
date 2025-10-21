@@ -146,6 +146,9 @@ Intake type chosen: Vex V5 claw Grabber - pinches and grips the object, lifting 
 
 <img width="617" height="828" alt="Screenshot 2025-10-21 at 1 46 04 PM" src="https://github.com/user-attachments/assets/0ac2e379-3610-4380-8f62-85f1eca292db" />
 
+## Robot without grabber (Phin's completed work):
+
+<img width="555" height="696" alt="Screenshot 2025-10-21 at 2 07 13 PM" src="https://github.com/user-attachments/assets/ac94245d-202a-4402-bff7-2b4a45da6a6a" />
 
 
 ## Design:
