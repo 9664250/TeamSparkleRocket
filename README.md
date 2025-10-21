@@ -116,14 +116,16 @@ New goal: Find a manipulator/intake type that would work for our bot to push, sc
 Intake type chosen: Vex V5 claw Grabber - pinches and grips the object, lifting it up and securing it. Would be useful for the rocket.
 
 
-Design (By Shayla):<img width="616" height="718" alt="Screenshot 2025-10-21 at 1 30 34 PM" src="https://github.com/user-attachments/assets/cc5ff1f2-6260-4dac-a0f9-d8855d655902" />
+Design (By Shayla):
+<img width="616" height="718" alt="Screenshot 2025-10-21 at 1 30 34 PM" src="https://github.com/user-attachments/assets/cc5ff1f2-6260-4dac-a0f9-d8855d655902" />
 
 
 Necessary changes:
 * Need to remove temporary grabber specifically meant for the donut, which Phineas is working on doing. By this class, it will be off.
 * Meanwhile, Santosh and Grayden are writing down the parts list and putting it in the section "Part list" down below.
-* Shayla will be drawing a design for the new robot with its new 
-* 
+* Shayla will be drawing a design for the new robot with its new grabber.
+* Cassandra will be documenting and gathering all the information to put into the github.
+* CJ is doing our code.
 
 Part list:
 * 
