@@ -47,6 +47,33 @@ Materials needed for rocket
 * Paper/aluminum/undecided rocket material
 
 
+
+### Parts list for the Intake ( Intake part 1: Santhosh Ramanathan and Graydon Neff )
+* 15x #8-32 Hex nuts
+* 13x #8-32 x 0.375 Star Drive Screw
+* 2x #8-32 x 1000 Star Drive Screw
+* 2x #8-32 x 1500 Locking Star Drive Screw
+* 4x 0.125 Nylon Spacer
+* 1x 0.500 Nylon Spacer
+* 8x #32 Rubber Shaft Collar
+* 2x #32 Rubber Band
+* 2x High Strength Gear Shaft Insert
+* 1x High Strength Shaft Adapter
+* 1x 12T Gear
+* 1x 12T Metal Pinion
+* 1x Bearing Flat
+* 3x 1-Post Hex Nut Retainer
+* 1x 4- Post Hex Nut Retainer
+* 11x 1-Post Hex Nut Retainer with Bearung Flat
+* 1x 84T High Strength Gear
+* 2x Smart Motor(11W)
+* 1x 8x Pitch Shaft
+* 1x 7x Pitch Shaft
+* 1x V5 Claw Assembly
+* 2x C - Channel 1x2x1x15
+* 2x C - Channel 1x2x1x25
+* 1x V5 Smart Cable 600mm
+* 1x V5 Smart Cable 900mm
 Basic sketch of robot model ( Phineas Taylor ):
 
 ![Sketch](https://github.com/9664250/TeamFormations/blob/main/images/Screenshot%202025-08-28%201.57.27%20PM.png)
