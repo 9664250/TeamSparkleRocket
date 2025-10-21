@@ -115,6 +115,8 @@ New goal: Find a manipulator/intake type that would work for our bot to push, sc
 
 Intake type chosen: Vex V5 claw Grabber - pinches and grips the object, lifting it up and securing it. Would be useful for the rocket.
 
+Grabber we will be using: ![Uploading image.jpeg…]()
+
 
 Design (By Shayla):
 <img width="616" height="718" alt="Screenshot 2025-10-21 at 1 30 34 PM" src="https://github.com/user-attachments/assets/cc5ff1f2-6260-4dac-a0f9-d8855d655902" />
