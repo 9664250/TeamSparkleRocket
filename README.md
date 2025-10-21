@@ -107,3 +107,17 @@ Updates:
 Updates:
 * Spark is now automated without human controls
 * We need to make a couple changes to the code
+
+
+### 10/21/25
+
+New goal: Find a manipulator/intake type that would work for our bot to push, scoop, pinch, or funnel an object around.
+
+Grabber type chosen: 
+
+Design:
+
+Necessary changes:
+*
+
+Part list:
