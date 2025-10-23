@@ -165,7 +165,7 @@ Necessary changes:
 * Santhosh will also create the Gantt Chart.
 * Shayla will be drawing a design for the new robot with its new grabber.
 * Cassandra will be documenting and gathering all the information to put into the github.
-* CJ is doing our code. ![Code By CJ](https://github.com/9664250/TeamSparkleRocket/blob/main/driver.v5blocks)
+  ![CJ is doing our code.](https://github.com/9664250/TeamSparkleRocket/blob/main/driver.v5blocks)
 
 * Part list will be found right below the items list at the top of the page.
 
