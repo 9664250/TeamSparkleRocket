@@ -151,7 +151,7 @@ Intake type chosen: Vex V5 claw Grabber - pinches and grips the object, lifting 
 <img width="555" height="696" alt="Screenshot 2025-10-21 at 2 07 13 PM" src="https://github.com/user-attachments/assets/ac94245d-202a-4402-bff7-2b4a45da6a6a" />
 
 
-## Design:
+## Design (by Cassandra Knoll):
 
 <img width="591" height="781" alt="Screenshot 2025-10-21 at 2 03 40 PM" src="https://github.com/user-attachments/assets/daddaa78-ccdf-421e-aef3-956c21dd809e" />
 
@@ -167,4 +167,8 @@ Necessary changes:
 * Cassandra will be documenting and gathering all the information to put into the github.
 * CJ is doing our code.
 
-* Part list will be found right below the items list in the top of the page.
+* Part list will be found right below the items list at the top of the page.
+
+### 10/23/25
+
+
