@@ -172,4 +172,12 @@ Necessary changes:
 
 ### 10/23/25
 
+Updates:
+* Code has been finished
+* Parts list was finished
+* The temporary grabber was removed and is currently being replaced by new grabber
+* We have a completed plan for the robot!
+
+Photo of design, updated:
+
 
