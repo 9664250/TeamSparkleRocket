@@ -178,6 +178,11 @@ Updates:
 * The temporary grabber was removed and is currently being replaced by new grabber
 * We have a completed plan for the robot!
 
-Photo of design, updated:
+Photo of design, updated (Cassandra):
 
 
+<img width="615" height="787" alt="Screenshot 2025-10-23 at 1 48 11 PM" src="https://github.com/user-attachments/assets/f6539ea1-2aa6-4e19-b18a-415769189de9" />
+
+Photo of new build: (Phineas, Santhosh, Graydon)
+
+<img width="615" height="821" alt="Screenshot 2025-10-23 at 1 50 26 PM" src="https://github.com/user-attachments/assets/ffd53fc7-8b7a-4939-8086-1633dfba2b12" />
