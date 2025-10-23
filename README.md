@@ -48,7 +48,7 @@ Materials needed for rocket
 
 
 
-### Parts list for the Intake ( Intake part 1: Santhosh Ramanathan and Graydon Neff )
+### Parts list for the Intake ( Intake part 1: Main: Santhosh Ramanathan, and Assisted by: Graydon Neff  )
 * 15x #8-32 Hex nuts
 * 13x #8-32 x 0.375 Star Drive Screw
 * 2x #8-32 x 1000 Star Drive Screw
