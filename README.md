@@ -161,10 +161,10 @@ Intake type chosen: Vex V5 claw Grabber - pinches and grips the object, lifting 
 
 Necessary changes:
 * Need to remove temporary grabber specifically meant for the donut, which Phineas is working on doing. By this class, it will be off.
-* Meanwhile, Santosh and Grayden are writing down the parts list and putting it in the section "Part list" down below.
+* Meanwhile, Santhosh and Grayden are writing down the parts list and putting it in the section "Part list" down below.
+* Santhosh will also create the Gantt Chart.
 * Shayla will be drawing a design for the new robot with its new grabber.
 * Cassandra will be documenting and gathering all the information to put into the github.
 * CJ is doing our code.
 
-Part list:
-* 
+* Part list will be found right below the items list in the top of the page.
