@@ -191,4 +191,7 @@ Photo of new build: (Phineas, Santhosh, Graydon)
 
 <img width="615" height="821" alt="Screenshot 2025-10-23 at 1 50 26 PM" src="https://github.com/user-attachments/assets/ffd53fc7-8b7a-4939-8086-1633dfba2b12" />
 
+
+
+### Robot Side View Sketch ( Santhosh )
 ![Robot Side View Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/Robot%20Side%20View%20Sketch.png)
