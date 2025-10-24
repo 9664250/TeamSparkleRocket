@@ -48,7 +48,7 @@ Materials needed for rocket
 
 
 
-### Parts list for the Intake ( Intake part 1: Main: Santhosh Ramanathan, and Assisted by: Graydon Neff  )
+### Parts list for the Intake ( Intake part 1: Main: Santhosh , and Assisted by: Graydon   )
 * 15x #8-32 Hex nuts
 * 13x #8-32 x 0.375 Star Drive Screw
 * 2x #8-32 x 1000 Star Drive Screw
@@ -74,13 +74,14 @@ Materials needed for rocket
 * 2x C - Channel 1x2x1x25
 * 1x V5 Smart Cable 600mm
 * 1x V5 Smart Cable 900mm
+
+
+### Intake Part 1 Gantt Chart ( Santhosh )
+![Gantt Chart](https://github.com/9664250/TeamSparkleRocket/blob/main/src/Online%20Gantt%2020251023-2.pdf)
 Basic sketch of robot model ( Phineas Taylor ):
 
 ![Sketch](https://github.com/9664250/TeamFormations/blob/main/images/Screenshot%202025-08-28%201.57.27%20PM.png)
 
-Basic sketch of retracting claw:
-
-Rocket sketch ( ideas ):
 
 ![Code By CJ](https://github.com/9664250/TeamSparkleRocket/blob/main/src/RocketBot%20Code.v5blocks)
 #### Useful Possible Websites : https://www.instructables.com/compressed-air-rockets/
