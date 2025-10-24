@@ -78,7 +78,9 @@ Materials needed for rocket
 
 ### Intake Part 1 Gantt Chart ( Santhosh )
 ![Gantt Chart](https://github.com/9664250/TeamSparkleRocket/blob/main/src/Online%20Gantt%2020251023-2.pdf)
-Basic sketch of robot model ( Phineas Taylor ):
+
+
+# Basic sketch of robot model ( Phineas Taylor ):
 
 ![Sketch](https://github.com/9664250/TeamFormations/blob/main/images/Screenshot%202025-08-28%201.57.27%20PM.png)
 
