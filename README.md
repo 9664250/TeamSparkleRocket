@@ -194,4 +194,4 @@ Photo of new build: (Phineas, Santhosh, Graydon)
 
 
 ### Robot Side View Sketch ( Santhosh )
-![Robot Side View Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/Robot%20Side%20View%20Sketch.png)
+![Robot Side View Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/RobotSideViewSketch.png)
