@@ -219,11 +219,14 @@ Plan:
 While working on robot, the builders encountered some issues with the wheels. One of them stopped working. We think the axel is too small and maybe fell out of the robot, so we will quickly redo that wheel by adding a new axel. Another issue is that some of the wheels don't touch the ground because of the new weight distribution due to the claw. About 4 weeks ago, we added temporary weight to the front, which may be a factor in the weight disproportion. We will remove those after the wheel is fixed, which may take a while because of the amount of added parts we have.
 
 Driving Log (recorded by Cassandra and Shayla):
-(Records the # of trials, whether the robot was successful in grabbing the donut, whether the wheels/motors/claw worked properly, whether the robot was successful overall, and any unexpected issues that we will need to fix.)
+* (Records the # of trials, whether the robot was successful in grabbing the donut, whether the wheels/motors/claw worked properly, whether the robot was successful overall, and any unexpected issues that we will need to fix.)
+
+
+
 
 DO NOT DELETE, THE TEAM WILL FILL THIS OUT LATER.
 
-Trial 1:
-Trial 2:
-Trial 3:
-Trial 4:
+* Trial 1:
+* Trial 2:
+* Trial 3:
+* Trial 4:
