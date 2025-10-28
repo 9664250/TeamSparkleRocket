@@ -195,3 +195,23 @@ Photo of new build: (Phineas, Santhosh, Graydon)
 
 ### Robot Side View Sketch ( Santhosh )
 ![Robot Side View Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/RobotSideViewSketch.png)
+
+### 10/28/25
+
+Updates: 
+* Bot is almost done! Grabber is attached; have 1 c-bar left to add.
+* Code has been attached to robot.
+
+Plan:
+* Firstly, finish the robot. This should take less than 10 minutes.
+* Then we let the driver (Graydon) practice for the rest of the period.
+* Cassandra will update the driving log into the section below ("Driving Log").
+* Santash and Phineas will be active and looking to make any changes to the robot design.
+* CJ will make any changes to the code if needed.
+
+Driving Log (recording of how well driving works):
+
+* Round 1: 
+* Round 2:
+* Round 3: 
+
