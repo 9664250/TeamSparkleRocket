@@ -208,6 +208,7 @@ Plan:
 * Cassandra will update the driving log into the section below ("Driving Log").
 * Santash and Phineas will be active and looking to make any changes to the robot design.
 * CJ will make any changes to the code if needed.
+* Shayla will help document updates/progress.
 
 Driving Log (recording of how well driving works):
 
