@@ -200,7 +200,12 @@ Photo of new build: (Phineas, Santhosh, Graydon)
 
 Updates: 
 * Bot is almost done! Grabber is attached; have 1 c-bar left to add.
-* Code has been attached to robot.
+* Photo of finished robot:
+  
+* <img width="1104" height="821" alt="Screenshot 2025-10-28 at 1 37 32 PM" src="https://github.com/user-attachments/assets/2e78c702-f17e-48d1-9263-a73171e9ecad" />
+
+* Code has been attached to robot. CJ's code is in the section above.
+
 
 Plan:
 * Firstly, finish the robot. This should take less than 10 minutes.
@@ -209,8 +214,10 @@ Plan:
 * Santash and Phineas will be active and looking to make any changes to the robot design.
 * CJ will make any changes to the code if needed.
 * Shayla will help document updates/progress.
+  
 
-Driving Log (recording of how well driving works):
+Driving Log (recording of how well driving works, recorded by Cassandra and Shayla):
+Recording round #, whether donut grab was successful, whether robot drive worked properly, whether robot completed the task, and any unexpected issues.
 
 * Round 1: 
 * Round 2:
