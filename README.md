@@ -211,7 +211,7 @@ Plan:
 * Firstly, finish the robot. This should take less than 10 minutes.
 * Then we let the driver (Graydon) practice for the rest of the period.
 * Cassandra will update the driving log into the section below ("Driving Log").
-* Santash and Phineas will be active and looking to make any changes to the robot design.
+* Santhosh and Phineas will be active and looking to make any changes to the robot design ( fixing the wheels and adding c bars to protect the motor from the claw that is shifting a lot of weight to).
 * CJ will make any changes to the code if needed.
 * Shayla will help document updates/progress.
   
@@ -226,7 +226,7 @@ Driving Log (recorded by Cassandra and Shayla):
 
 DO NOT DELETE, THE TEAM WILL FILL THIS OUT LATER.
 
-* Trial 1:
+* Trial 1: 
 * Trial 2:
 * Trial 3:
 * Trial 4:
