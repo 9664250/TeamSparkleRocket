@@ -200,9 +200,16 @@ Photo of new build: (Phineas, Santhosh, Graydon)
 
 Updates: 
 * Bot is almost done! Grabber is attached; have 1 c-bar left to add.
-* Photo of finished robot:
+* Photo of finished robot (Phineas, Santhosh, and Graydon):
   
 * <img width="1104" height="821" alt="Screenshot 2025-10-28 at 1 37 32 PM" src="https://github.com/user-attachments/assets/2e78c702-f17e-48d1-9263-a73171e9ecad" />
+
+What was added:
+* New wheel, and new axil
+* C bar to protect motor from being bent by the claw.
+* Tightening high strength shaft inserts since the axil was not connected fully.
+* Added weight distribution to the left side since one wheel could not touch the ground.
+
 
 * Code has been attached to robot. CJ's code is in the section above.
 
@@ -210,7 +217,7 @@ Updates:
 Plan:
 * Then we let the driver (Graydon) practice for the rest of the period.
 * Cassandra will update the driving log into the section below ("Driving Log").
-* Santhosh and Phineas will be active and looking to make any changes to the robot design ( fixing the wheels and adding c bars to protect the motor from the claw that is shifting a lot of weight to).
+* Santhosh and Phineas will be active and looking to make any changes to the robot design 
 * CJ will make any changes to the code if needed.
 * Shayla will help document updates/progress.
   
