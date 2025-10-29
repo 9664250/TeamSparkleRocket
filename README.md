@@ -140,7 +140,7 @@ Updates:
 * We need to make a couple changes to the code
 
 
-### 10/21/25
+### 10/21/25 ( Intake Part 1 )
 
 New goal: Find a manipulator/intake type that would work for our bot to push, scoop, pinch, or funnel an object around. Must be able to interact (pick up and hold securely) with real-world objects, specifically our rocket.
 
@@ -174,7 +174,7 @@ Necessary changes:
 
 * Part list will be found right below the items list at the top of the page.
 
-### 10/23/25
+### 10/23/25 ( Inatake Part 2 )
 
 Updates:
 * Code has been finished
@@ -196,7 +196,7 @@ Photo of new build: (Phineas, Santhosh, Graydon)
 ### Robot Side View Sketch ( Santhosh )
 ![Robot Side View Sketch](https://github.com/9664250/TeamSparkleRocket/blob/main/images/RobotSideViewSketch.png)
 
-### 10/28/25
+### 10/28/25 ( Intake Stage 3 )
 
 Updates: 
 * Bot is almost done! Grabber is attached; have 1 c-bar left to add.
@@ -208,7 +208,6 @@ Updates:
 
 
 Plan:
-* Firstly, finish the robot. This should take less than 10 minutes.
 * Then we let the driver (Graydon) practice for the rest of the period.
 * Cassandra will update the driving log into the section below ("Driving Log").
 * Santhosh and Phineas will be active and looking to make any changes to the robot design ( fixing the wheels and adding c bars to protect the motor from the claw that is shifting a lot of weight to).
