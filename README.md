@@ -258,6 +258,6 @@ Plan:
 
 <img width="1204" height="602" alt="Screenshot 2025-10-30 at 1 57 07 PM" src="https://github.com/user-attachments/assets/b9af4652-bc1f-4cf6-9f45-243eff9063b1" />
 
-## Coder reoirt
+## Coder report
 
 <img width="1230" height="617" alt="Screenshot 2025-10-30 at 1 57 33 PM" src="https://github.com/user-attachments/assets/413d83bc-df89-471a-87d0-e83009ff7678" />
