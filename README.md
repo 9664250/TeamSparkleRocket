@@ -232,7 +232,7 @@ Driving Log (recorded by Cassandra and Shayla):
 
 DO NOT DELETE, THE TEAM WILL FILL THIS OUT LATER.
 
-* Trial 1: 
+* Trial 1: The wheel stopped working. Fix the wheel!
 * Trial 2:
 * Trial 3:
 * Trial 4:
