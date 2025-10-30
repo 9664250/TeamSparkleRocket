@@ -228,11 +228,36 @@ Driving Log (recorded by Cassandra and Shayla):
 * (Records the # of trials, whether the robot was successful in grabbing the donut, whether the wheels/motors/claw worked properly, whether the robot was successful overall, and any unexpected issues that we will need to fix.)
 
 
-
-
-DO NOT DELETE, THE TEAM WILL FILL THIS OUT LATER.
+DRIVING TRIALS
 
 * Trial 1: The wheel stopped working. Fix the wheel!
-* Trial 2:
-* Trial 3:
-* Trial 4:
+* Trial 2: Isn't driving straight. Need to fix that. 
+* Trial 3: Working well, but must drive straight! Kappite suggested we shift the grabber by 2 units.
+* Trial 4: 
+
+
+### 10/30/25
+
+FINISH THE DRIVING TRIALS! They will be recorded in the section above! 
+
+Plan: 
+* Finish driving.
+* As the documenters, Shayla and I will work on the Team Reflections.
+* The others are done with their jobs, but will help in the recorded driving.
+
+  
+## Building team report:
+
+<img width="1205" height="649" alt="Screenshot 2025-10-30 at 1 56 01 PM" src="https://github.com/user-attachments/assets/be48e351-f4a3-4e4c-bad0-935144fcf464" />
+
+## Driver report
+
+<img width="1225" height="569" alt="Screenshot 2025-10-30 at 1 56 37 PM" src="https://github.com/user-attachments/assets/715f810a-53fc-4f5b-8190-4d60c7d011b5" />
+
+## Documenter report
+
+<img width="1204" height="602" alt="Screenshot 2025-10-30 at 1 57 07 PM" src="https://github.com/user-attachments/assets/b9af4652-bc1f-4cf6-9f45-243eff9063b1" />
+
+## Coder reoirt
+
+<img width="1230" height="617" alt="Screenshot 2025-10-30 at 1 57 33 PM" src="https://github.com/user-attachments/assets/413d83bc-df89-471a-87d0-e83009ff7678" />
