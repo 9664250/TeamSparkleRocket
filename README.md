@@ -205,7 +205,7 @@ Updates:
 * <img width="1104" height="821" alt="Screenshot 2025-10-28 at 1 37 32 PM" src="https://github.com/user-attachments/assets/2e78c702-f17e-48d1-9263-a73171e9ecad" />
 
 What was added:
-* New wheel, and new axil
+* New wheel, and new axle
 * C bar to protect motor from being bent by the claw.
 * Tightening high strength shaft inserts since the axil was not connected fully.
 * Added weight distribution to the left side since one wheel could not touch the ground.
@@ -222,7 +222,7 @@ Plan:
 * Shayla will help document updates/progress.
   
 
-While working on robot, the builders encountered some issues with the wheels. One of them stopped working. We think the axel is too small and maybe fell out of the robot, so we will quickly redo that wheel by adding a new axel. Another issue is that some of the wheels don't touch the ground because of the new weight distribution due to the claw. About 4 weeks ago, we added temporary weight to the front, which may be a factor in the weight disproportion. We will remove those after the wheel is fixed, which may take a while because of the amount of added parts we have.
+While working on robot, the builders encountered some issues with the wheels. One of them stopped working. We think the axle is too small and maybe fell out of the robot, so we will quickly redo that wheel by adding a new axle. Another issue is that some of the wheels don't touch the ground because of the new weight distribution due to the claw. About 4 weeks ago, we added temporary weight to the front, which may be a factor in the weight disproportion. We will remove those after the wheel is fixed, which may take a while because of the amount of added parts we have.
 
 Driving Log (recorded by Cassandra and Shayla):
 * (Records the # of trials, whether the robot was successful in grabbing the donut, whether the wheels/motors/claw worked properly, whether the robot was successful overall, and any unexpected issues that we will need to fix.)
