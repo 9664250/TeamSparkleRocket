@@ -271,6 +271,6 @@ Plan for today:
 
 Driver-controlled graded trials:
 
-Trial 1:
-Trial 2:
+Trial 1: No time
+Trial 2: No time
 Trial 3: 
