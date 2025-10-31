@@ -261,3 +261,16 @@ Plan:
 ## Coder report
 
 <img width="1230" height="617" alt="Screenshot 2025-10-30 at 1 57 33 PM" src="https://github.com/user-attachments/assets/413d83bc-df89-471a-87d0-e83009ff7678" />
+
+
+### 10/31//25 HALLOWEEN!
+
+Plan for today:
+* The builders have one thing to fix. They need to add the battery to the bot again because they were adjusting the bot's design yesterday and have yet to add the battery. This shouldn't take too long.
+* We need to do the Driver-controlled trials. They will be recorded in the section below ("Driver-controlled graded trials).
+
+Driver-controlled graded trials:
+
+Trial 1:
+Trial 2:
+Trial 3: 
