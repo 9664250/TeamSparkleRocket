@@ -267,6 +267,7 @@ Plan:
 
 Plan for today:
 * The builders have one thing to fix. They need to add the battery to the bot again because they were adjusting the bot's design yesterday and have yet to add the battery. This shouldn't take too long.
+* Although the bot is still facing a huge problem of weight distribution 
 * We need to do the Driver-controlled trials. They will be recorded in the section below ("Driver-controlled graded trials).
 
 Driver-controlled graded trials:
