@@ -276,4 +276,9 @@ Trial 1: No time
 Trial 2: No time!! Could grab the donut, but positioning was completely wrong! Need to give driver more practice. Will spend next period helping driver practice.
 Trial 3: 
 
+### 11/6/25
 
+Plan for today:
+* Let driver practice! That's all we need, then we can go to do trial 3.
+
+* Trial 3 results: 
