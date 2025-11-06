@@ -273,5 +273,7 @@ Plan for today:
 Driver-controlled graded trials:
 
 Trial 1: No time
-Trial 2: No time
+Trial 2: No time!! Could grab the donut, but positioning was completely wrong! Need to give driver more practice. Will spend next period helping driver practice.
 Trial 3: 
+
+
