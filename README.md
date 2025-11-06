@@ -274,11 +274,17 @@ Driver-controlled graded trials:
 
 Trial 1: No time
 Trial 2: No time!! Could grab the donut, but positioning was completely wrong! Need to give driver more practice. Will spend next period helping driver practice.
-Trial 3: 
 
 ### 11/6/25
 
 Plan for today:
 * Let driver practice! That's all we need, then we can go to do trial 3.
+* Start implementing sensors. Plan out what to add.
 
-* Trial 3 results: 
+Trial 3 results: 1:06 !!! Twelve seconds above the top (current) leader. It was successful.
+
+Plan for sensors:
+
+Photo of sensor we'll be adding.
+
+
