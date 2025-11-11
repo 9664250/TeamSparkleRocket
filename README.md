@@ -285,6 +285,14 @@ Trial 3 results: 1:06 !!! Twelve seconds above the top (current) leader. It was 
 
 Plan for sensors:
 
+
+### 11/11/25
+
+Plan for today:
+
+* Our robot is still leaning to the right when it drives.
+* Our goal today is to find a way to prevent that.
+
 Photo of sensor we'll be adding.
 
 
