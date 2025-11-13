@@ -303,6 +303,18 @@ Update: He decreased the motor movement on one of the wheels by 13%, meaning the
 
 Plan for today:
 * Tomorrow we will play capture the flag.
-* We need to give our driver more experience, so he will be practicing the entire day.
+* We need to give our driver more experience, so he will be practicing for 30 minutes.
+* After that, we will decide what sensor to use.
 
-* 
+Updates: 
+* We had an unexpected issue!
+* Our robot decided that its grabber wouldn't work for half the time.
+* So, randomly, the grabber will just stop working.
+* We asked the teacher and we think it's because of the amount of pressure building up there.
+* To fix this, the builders will change some parts of the grabber design.
+* They will add more length between the grabber and bot, which should reduce tension.
+
+Photo of driver practicing:
+
+Photo of builder building:
+
