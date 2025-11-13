@@ -318,3 +318,6 @@ Photo of driver practicing:
 
 Photo of builder building:
 
+Photo of updated bot (with updates from the section above, "Updates"):
+
+
