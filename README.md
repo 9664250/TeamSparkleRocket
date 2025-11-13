@@ -317,7 +317,10 @@ Updates:
 Photo of driver practicing:
 
 Photo of builder building:
+<img width="1091" height="798" alt="Screenshot 2025-11-13 at 2 08 30 PM" src="https://github.com/user-attachments/assets/406c04da-f1ea-4a4e-8ca9-1b37d4a5f3c0" />
+
 
 Photo of updated bot (with updates from the section above, "Updates"):
 
+<img width="1007" height="767" alt="Screenshot 2025-11-13 at 2 08 54 PM" src="https://github.com/user-attachments/assets/967a0660-e26e-49a2-bce3-a572de3e8d2c" />
 
