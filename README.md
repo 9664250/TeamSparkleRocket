@@ -295,4 +295,14 @@ Plan for today:
 * Our goal today is to find a way to prevent that.
 
 
-The coder, CJ, will plan
+The coder, CJ, will plan out how to do this.
+
+Update: He decreased the motor movement on one of the wheels by 13%, meaning the robot will drive slower, but evenly.
+
+### 11/13/25
+
+Plan for today:
+* Tomorrow we will play capture the flag.
+* We need to give our driver more experience, so he will be practicing the entire day.
+
+* 
