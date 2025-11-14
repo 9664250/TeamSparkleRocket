@@ -331,13 +331,13 @@ Plan for today:
 
 #### Results:
 
-Round 1: 
+Round 1: With team 4 & against team 1 & 2.
 
 Round 2: Sitting out.
 
-Round 3:
+Round 3: With team 1 & against team 4 & 5.
 
-Round 4:
+Round 4: With team 5 & against team 2 & 4.
 
-Round 5:
+Round 5: With team 2 & against team 1 & 5.
 
