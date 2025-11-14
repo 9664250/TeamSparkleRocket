@@ -324,3 +324,20 @@ Photo of updated bot (with updates from the section above, "Updates"):
 
 <img width="1007" height="767" alt="Screenshot 2025-11-13 at 2 08 54 PM" src="https://github.com/user-attachments/assets/967a0660-e26e-49a2-bce3-a572de3e8d2c" />
 
+### 11/14/25
+
+Plan for today:
+* Win capture the flag!
+
+#### Results:
+
+Round 1: 
+
+Round 2: Sitting out.
+
+Round 3:
+
+Round 4:
+
+Round 5:
+
