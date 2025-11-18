@@ -331,13 +331,13 @@ Plan for today:
 
 #### Results:
 
-Round 1: With team 4 & against team 1 & 2. Results: Won & Lost. Won first round, then a couple unestablished issues came up, and we were forced to redo the round, which we then lost. However, both rounds were counted. In the second round, another team broke our battery clip and made one of our wheels stop working. We'll have to quickly fix that.
+Round 1: With team 4 & against team 1 & 2. Results: Won & Lost! Won first round, then a couple unestablished issues came up, and we were forced to redo the round, which we then lost. However, both rounds were counted. In the second round, another team broke our battery clip and made one of our wheels stop working. We'll have to quickly fix that.
 
 Round 2: Sitting out.
 
-Round 3: With team 1 & against team 4 & 5.
+Round 3: With team 1 & against team 4 & 5. Won! However, Spark's claw was disabled due to issues in the first round. Will have to fix that.
 
-Round 4: With team 5 & against team 2 & 4.
+Round 4: With team 5 & against team 2 & 4. Lost! The other bot got disabled, so it was a 2v1 and very hard for us to win.
 
 Round 5: With team 2 & against team 1 & 5.
 
