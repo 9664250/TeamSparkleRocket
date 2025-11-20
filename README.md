@@ -329,7 +329,7 @@ Photo of updated bot (with updates from the section above, "Updates"):
 Plan for today:
 * Win capture the flag!
 
-#### Results:
+#### Results: (11/14, 11/18, 11/20)
 
 Round 1: With team 4 & against team 1 & 2. Results: Won & Lost! Won first round, then a couple unestablished issues came up, and we were forced to redo the round, which we then lost. However, both rounds were counted. In the second round, another team broke our battery clip and made one of our wheels stop working. We'll have to quickly fix that.
 
