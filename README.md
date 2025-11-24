@@ -339,7 +339,9 @@ Round 3: With team 1 & against team 4 & 5. Won! However, Spark's claw was disabl
 
 Round 4: With team 5 & against team 2 & 4. Lost! The other bot got disabled, so it was a 2v1 and very hard for us to win.
 
-Round 5: With team 2 & against team 1 & 5. Lost!
+Round 5: With team 2 & against team 1 & 5. won
+
+Round 6: with team 4 & against team 1 & 2  Lost
 
 Our team won 3rd place!
 
