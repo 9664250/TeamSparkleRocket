@@ -345,3 +345,10 @@ Round 6: with team 4 & against team 1 & 2  Lost
 
 Our team won 3rd place!
 
+
+###### VEX V5 Sensor Integration & Drive Test
+
+The sensor we chose to implement was the limit swicth sesnor
+- this is because our bot is vulnerable in the back because we have to brain and bettery on the back unprotected
+- this led to many issues such as the battery falling out and it could lead to a lot of damage if it is continiously hitted in the back so we thought if we placed a limit switch in the back that boosted forward and di a 360 spin we can protect the battery.
+
