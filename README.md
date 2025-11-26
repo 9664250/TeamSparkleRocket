@@ -346,9 +346,14 @@ Round 6: with team 4 & against team 1 & 2  Lost
 Our team won 3rd place!
 
 
-###### VEX V5 Sensor Integration & Drive Test
+#### VEX V5 Sensor Integration & Drive Test ( Assignment )
 
-The sensor we chose to implement was the limit swicth sesnor
-- this is because our bot is vulnerable in the back because we have to brain and bettery on the back unprotected
-- this led to many issues such as the battery falling out and it could lead to a lot of damage if it is continiously hitted in the back so we thought if we placed a limit switch in the back that boosted forward and di a 360 spin we can protect the battery.
+(Planning, Santhosh )
+The sensor we chose to implement was the limit swicth sesnor.
+* The limit switch sensor basically does a sequence of actions that is coded once the button is clicked. This would be significantly beneficial to our robot because our robots design right now is very vulnerable in the back. This is because we have the brain and the battery in the back with no protection of a C - bar. This caused a few issues since in the capture of the flag sometimes the battery fell out. So to prevent the damage that comes to these very important/ expensive pieces we decided to place a limit switch in the back of the robot. This means that if a bot or the back of the bot runs into a wall backwards causing the back of the bot to be hit the limit switch will activate which will thrust the bot forwards a few feet and turn around 360 degrees. From this we can prevent damage to the battery and brain.
+
+
+ * Photo of the implemented sensor:
+
+( We implemented the sensor but forgot to take a picture, this will be added in Monday.)
 
