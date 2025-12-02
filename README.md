@@ -350,7 +350,7 @@ Our team won 3rd place!
 
 (Planning, Santhosh )
 The sensor we chose to implement was the limit swicth sesnor.
-* The limit switch sensor basically does a sequence of actions that is coded once the button is clicked. This would be significantly beneficial to our robot because our robots design right now is very vulnerable in the back. This is because we have the brain and the battery in the back with no protection of a C - bar. This caused a few issues since in the capture of the flag sometimes the battery fell out. So to prevent the damage that comes to these very important/ expensive pieces we decided to place a limit switch in the back of the robot. This means that if a bot or the back of the bot runs into a wall backwards causing the back of the bot to be hit the limit switch will activate which will thrust the bot forwards a few feet and turn around 360 degrees. From this we can prevent damage to the battery and brain.
+* The limit switch sensor basically does a sequence of actions that is coded once the button is clicked. This would be significantly beneficial to our robot because our robots design right now is very vulnerable in the back. This is because we have the brain and the battery in the back with no protection of a C - bar. This caused a few issues since in the capture of the flag sometimes the battery fell out. So to prevent the damage that comes to these very important/ expensive pieces we decided to place a limit switch in the back of the robot. This means that if a bot or the back of the bot runs into a wall backwards causing the back of the bot to be hit the limit switch will activate which will spin around 360 degrees. From this we can prevent damage to the battery and brain.
 
 
  * Photo of the implemented sensor:
