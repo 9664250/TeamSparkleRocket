@@ -355,5 +355,5 @@ The sensor we chose to implement was the limit swicth sesnor.
 
  * Photo of the implemented sensor:
 
-( We implemented the sensor but forgot to take a picture, this will be added in Monday.)
+<img width="315" height="234" alt="Screenshot 2025-12-04 at 1 06 43 PM" src="https://github.com/user-attachments/assets/6ae64ca4-b721-4990-8453-882efa062092" />
 
