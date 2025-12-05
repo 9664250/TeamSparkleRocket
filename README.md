@@ -357,4 +357,6 @@ The sensor we chose to implement was the limit swicth sesnor.
 
 <img width="315" height="234" alt="Screenshot 2025-12-04 at 1 06 43 PM" src="https://github.com/user-attachments/assets/6ae64ca4-b721-4990-8453-882efa062092" />
 
-Sensor purpose: We've coded the sensor to make the robot do 360s for 30 seconds straight, which would allow the robot to escape in a situation where it's cornered. This would also be a defense mechanism and could be useful in games such as capture the flag, which we have had to play in class before. 
+Sensor purpose: We've coded the sensor to make the bot rush forward, then do a quick 360, which would allow the robot to escape in a situation where it's cornered. This would also be a defense mechanism and could be useful in games such as capture the flag, which we have had to play in class before. The sensor is put on the back of the bot for when it's pinned against the box and the back of the bot (or the sensor) is hitting the cardboard box.
+
+#### Sensor test results:
